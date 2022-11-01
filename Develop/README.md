@@ -1,4 +1,4 @@
-# README.MD Generator 
+# README.md Generator 
 
   ## Table of contents 
 
@@ -22,26 +22,25 @@
  README 
 
   ## License 
- MIT License 
-
-  ![License: MIT](https://www.mit.edu/~amini/LICENSE.md) 
-
+ MIT License  
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
   ## Installation 
- na 
+ Must have Node installed to run this application
+ 
+ Run [node index.js] in terminal to initiate questions
 
   ## Credits 
- na 
+ Dylan Schmidt, Mason Russo, Sophie Kedrowski
 
   ## Usage 
- na 
+  N/A
 
   ## Contributors 
- Dylan Schmidt 
+ Mason Russo, Sophie Kedrowski
 
-  ## Tests 
- na 
+  ## Testing 
+ N/A 
 
   ## Questions 
  Email:dylanschmidt2424@gmail.com 
