@@ -34,7 +34,7 @@ function renderLicenseSection(license) {
   return `## License \n ${license} License`
 }
 
-// TODO: Create a function to generate markdown for README
+
 function generateMarkdown(data) {
   return `# ${data.Title} \n
   ## Table of contents \n
