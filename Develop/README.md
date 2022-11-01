@@ -19,16 +19,14 @@
   - [Questions](#questions) 
 
   ## Description 
- README 
+ README.md Generator 
 
   ## License 
  MIT License  
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
   ## Installation 
- Must have Node installed to run this application
- 
- Run [node index.js] in terminal to initiate questions
+I
 
   ## Credits 
  Dylan Schmidt, Mason Russo, Sophie Kedrowski
