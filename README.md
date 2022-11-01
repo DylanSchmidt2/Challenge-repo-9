@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/109780961/199361819-f5e9d89d-e306-491a
 
 
 
-Link to site: https://dylanschmidt2.github.io/Challenge-repo-6/
+Link to repository: https://github.com/DylanSchmidt2/Challenge-repo-9
 
 ### Thanks to:
 * Mason Russo
