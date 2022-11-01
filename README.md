@@ -2,6 +2,8 @@
 
 This challenge was given by The University of Minnesota Bootcamp 
 
+###### Generated README.md is located in 'Devlop' folder
+
 This application utilizes Javascript, Node js, inquirer, and more, to generate a README.md file
 
 ### Description: 
@@ -16,8 +18,6 @@ Users are prompted with important questions about thier project, this applicatio
 ### Extra add-ons
 
 ###### I enjoy adding quality of life (qol) functions to assignments, time permitting. Unfortunately, I didn't have time to bring them to life on this assignment.
-
-###### Generated README.md is located in 'Devlop' folder
 
 ### Final thoughts
 This has been my first couple of days using Node JS, and npm (specifically inquirer), it's sticking pretty well but I still needed alot of help on this from friends and TA's. Overall, I'm excited to keep working with _testing_ specifically and also Node.
