@@ -25,14 +25,7 @@ Being a pretty simple challenge, my biggest struggle was actually declaring my c
 
 
 ### Screen Capture:
-
-
 https://user-images.githubusercontent.com/109780961/199361819-f5e9d89d-e306-491a-a498-9365b7f1a6bc.mp4
-
-
-
-
-Link to repository: https://github.com/DylanSchmidt2/Challenge-repo-9
 
 ### Thanks to:
 * Mason Russo
@@ -41,4 +34,4 @@ Link to repository: https://github.com/DylanSchmidt2/Challenge-repo-9
 * Kalyn Reid
 
 ###### links
-N/A
+(https://github.com/DylanSchmidt2/Challenge-repo-9)
