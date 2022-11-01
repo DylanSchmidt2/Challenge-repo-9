@@ -24,8 +24,12 @@ This has been my first couple of days using Node JS, and npm (specifically inqui
 Being a pretty simple challenge, my biggest struggle was actually declaring my const for the README.md at the top of index.js. Using the 'reverse' method  and really all of the methods is still a learning process for me but again, with some great help, its working as of now.
 
 
-Screen Capture:
-![Challenge 6 ss](https://user-images.githubusercontent.com/109780961/195235953-9d0ef683-49b6-45c0-b44a-78b49aa8ab0a.PNG)
+### Screen Capture:
+
+
+https://user-images.githubusercontent.com/109780961/199361819-f5e9d89d-e306-491a-a498-9365b7f1a6bc.mp4
+
+
 
 
 Link to site: https://dylanschmidt2.github.io/Challenge-repo-6/
