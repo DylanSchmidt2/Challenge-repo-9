@@ -2,18 +2,7 @@
 module.exports = generateMarkdown;
 function renderLicenseBadge(license) {  
   
-let yourLicense = ''
-if(license === 'MIT') {
-  yourLicense = `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
-} else if (license === 'GPLv3') {
-  yourLicense = `![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)`
-} else if (license === 'GPL') {
-  yourLicense = `![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)`
-} 
-return yourLicense;
-};
-
-function renderLicenseLink(license) {
+  function renderLicenseLink(license) {
   let licenseLink = ''
 if(license === 'MIT') {
   licenseLink = `![License: MIT](https://www.mit.edu/~amini/LICENSE.md)`
@@ -26,6 +15,18 @@ if(license === 'MIT') {
 }
 return licenseLink;
 }
+let yourLicense = ''
+if(license === 'MIT') {
+  yourLicense = `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
+} else if (license === 'GPLv3') {
+  yourLicense = `![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)`
+} else if (license === 'GPL') {
+  yourLicense = `![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)`
+} 
+return yourLicense;
+};
+
+
 
 function renderLicenseSection(license) {
   if (license === "n/a") {
@@ -46,6 +47,7 @@ function generateMarkdown(data) {
   - [Contributors](#contributors) \n
   - [Tests](#tests) \n
   - [Questions](#questions) \n
+  
   ## Description \n ${data.Description} \n
   ${renderLicenseSection(data.licenses)} \n
   ${renderLicenseLink(data.licenses)} \n
